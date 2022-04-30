@@ -1,0 +1,15 @@
+{
+  "name": "my-first-truffle-project",
+  "version": "0.0.1",
+  "engines": {
+    "node": "16.8.0",
+    "npm": "7.21.0"
+  },
+  "devDependencies": {
+    "truffle": "^5.5.12"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "@truffle/hdwallet-provider": "^2.0.8"
+  }
+}
